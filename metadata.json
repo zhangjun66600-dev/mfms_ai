@@ -1,0 +1,5 @@
+{
+  "name": "PropMaint AI Audit",
+  "description": "A professional AI-powered workbench for auditing property maintenance fund applications, featuring Google Search grounding and Gemini Chat assistance.",
+  "requestFramePermissions": []
+}
